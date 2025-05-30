@@ -1,5 +1,5 @@
 ---
 title: My first page
 
-Hello, welcome to my blog! My name is Anh Nguyen, and I am learning GitHub pages!
+#Hello, welcome to my blog! My name is Anh Nguyen, and I am learning GitHub pages!
 ---
